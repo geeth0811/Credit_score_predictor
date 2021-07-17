@@ -1,4 +1,4 @@
-# Hackathon assignment by Geethanadh Sunkara And Ameer 
+# Hackathon assignment by Geethanadh Sunkara And Ameer.
 
 This repository contains code which demonstrates ML-Ops using a `FastAPI` application which predicts the Credit Score using the german dataset which is present in the SouthGermanCredit folder.
 
@@ -12,3 +12,4 @@ This repository contains code which demonstrates ML-Ops using a `FastAPI` applic
 ## CI/CD
 - `build` (test) for all the pull requests
 - `build` (test) and `upload_zip` for all pushes
+
